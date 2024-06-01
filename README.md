@@ -36,7 +36,7 @@
 <h2 align="center">Studying In This Moment:</h2>
 <div align="center" style="display:inline_block">
     <img align="center" alt="SD-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-    <img align="center" alt="SD-TS" src="https://techstack-generator.vercel.app/ts-icon.svg" width="62" height="62" />
+    <img align="center" alt="SD-TS"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
     <img align="center" alt="SD-node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="SD-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 </div>

@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandynellyDiniz&layout=compact&hide_border=true&title_color=de00aa&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
-  <h2 align="center">Technologies:</h2>
+  <h2 align="center"> :briefcase: Technologies:</h2>
 <div align="center" style="display:inline_block">
   <img align="center" alt="SD-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="SD-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
@@ -38,7 +38,7 @@
     <img align="center" alt="SD-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 </div>
 
-<h2 align="center">For the future:</h2>
+<h2 align="center"> :thread: For the future:</h2>
 <div align="center" style="display:inline_block">
     <img align="center" alt="SD-raspberrypi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg">
     <img align="center" alt="SD-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">

@@ -7,6 +7,12 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandynellyDiniz&layout=compact&hide_border=true&title_color=de00aa&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
+<div align="center">
+  :butterfly: " I'm never really satisfied with understanding something; because, as far as I understand,<br> my understanding can only be an infinitesimal fraction of everything I want 
+   to understand. "<br> ~ Ada Lovelace
+</div>
+
+
   <h2 align="center"> :briefcase: Technologies:</h2>
 <div align="center" style="display:inline_block">
   <img align="center" alt="SD-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">

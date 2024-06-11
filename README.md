@@ -29,7 +29,6 @@
   <img align="center" alt="SD-handlebars" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/handlebars/handlebars-original.svg">
   <img align="center" alt="SD-express" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg">
   <img align="center" alt="SD-gitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg">
-  <img align="center" alt="SD-codepen" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg">
 </div>
 
 <h2 align="center">Studying In This Moment:</h2>

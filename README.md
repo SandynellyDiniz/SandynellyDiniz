@@ -9,7 +9,7 @@
 
 <div align="center">
   :butterfly: " I'm never really satisfied with understanding something; because, as far as I understand,<br> my understanding can only be an infinitesimal fraction of everything I want 
-   to understand. "<br> ~ Ada Lovelace
+   to understand. "<br> ~ Ada Lovelace :sparkles:
 </div>
 
 

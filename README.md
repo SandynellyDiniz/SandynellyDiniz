@@ -30,7 +30,7 @@
   <img align="center" alt="SD-express" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg">
 </div>
 
-<h2 align="center">Studying In This Moment:</h2>
+<h2 align="center"> :pencil2: Studying In This Moment:</h2>
 <div align="center" style="display:inline_block">
     <img align="center" alt="SD-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
     <img align="center" alt="SD-TS"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">

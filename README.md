@@ -10,10 +10,10 @@
    to understand. "<br> ~ Ada Lovelace :sparkles:
 </div>
 
-  <h2 align="center"> :briefcase: Technologies:</h2>
+  <h2 align="center"> :briefcase: Technologies :</h2>
 <div align="center" style="display:inline_block">
   <img align="center" alt="SD-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="SD-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="SD-Python" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="SD-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="SD-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img align="center" alt="SD-IDE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg">
@@ -21,8 +21,8 @@
   <img align="center" alt="SD-node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="SD-npmPack" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="SD-mongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="SD-Yarn" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg">
-   <img align="center" alt="SD-viteJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">  
+  <img align="center" alt="SD-Yarn" height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg">
+   <img align="center" alt="SD-viteJS" height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">  
    <br>
    <br>
   <img align="center" alt="SD-prisma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg">
@@ -31,7 +31,7 @@
   <img align="center" alt="SD-express" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg">
 </div>
 
-<h2 align="center"> :pencil2: Studying In This Moment:</h2>
+<h2 align="center"> :pencil2: Studying In This Moment :</h2>
 <div align="center" style="display:inline_block">
     <img align="center" alt="SD-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
     <img align="center" alt="SD-TS"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">

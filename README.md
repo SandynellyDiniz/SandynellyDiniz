@@ -24,6 +24,7 @@
   <img align="center" alt="SD-Yarn" height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg">  
    <br>
    <br>
+   <img align="center" alt="SD-rasp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg">
   <img align="center" alt="SD-rasp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg">
   <img align="center" alt="SD-fastify" height="49" width="59" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain.svg">
   <img align="center" alt="SD-bash" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">

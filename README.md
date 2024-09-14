@@ -5,8 +5,7 @@
 </div>
 
 <div align="center">
-  :butterfly: " I'm never really satisfied with my understanding of something; because, as long as I understand it;<br>
-my understanding can only be an infinitesimal fraction of everything I want to understand. ”
+  :butterfly: " I'm never really satisfied with understanding anything because, as far as I know,<br> my understanding can only be an infinitesimal fraction of everything I want to understand. ”
   <br> ~ Ada Lovelace :sparkles:
 </div>
 

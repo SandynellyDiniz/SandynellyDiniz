@@ -5,8 +5,9 @@
 </div>
 
 <div align="center">
-  :butterfly: " I'm never really satisfied with understanding anything because, as far as I know,<br> my understanding can only be an infinitesimal fraction of everything I want to understand. ”
-  <br> ~ Ada Lovelace :sparkles:
+  - Cybersecurity = Pentest + Bug Bounty Hunter 
+  <br>
+  - Low-level code
 </div>
 
 <div align="center" style="display:inline_block">

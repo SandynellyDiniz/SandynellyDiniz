@@ -5,15 +5,15 @@
 </div>
 
 <div align="center">
-   🧪 <b>Back-end Developer</b> 
+   🧪 <b>Back-end Developer, focus on the JavaScript language with Node.Js</b> 
    <br>
-   🔍 <b>Cybersecurity = Pentest + Bug Bounty Hunter</b> 
+   🔍 <b>A developer passionate about cybersecurity and in my spare time I make bug bounty</b> 
 </div>
 
 <div align="center" style="display:inline_block">
 
   <br>
-  <h2 align="center"> 📍 Technologies :</h2> 
+  <h2 align="center">🔧 Technologies :</h2> 
   <img align="center" alt="SD-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="SD-Python" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="SD-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">

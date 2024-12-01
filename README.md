@@ -5,6 +5,9 @@
 </div>
 
 <div align="center">
+  
+   🔐 Cybersecurity | 🧪 Back-end | 💘 passionate about low-level languages 
+
 </div>
 
 <div align="center" style="display:inline_block">

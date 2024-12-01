@@ -6,7 +6,7 @@
 
 <div align="center">
   
-   🔐 Cybersecurity | 🧪 Back-end | 💘 passionate about low-level languages 
+   🔐 CyberSecurity | 🧪 Back-end | 💘 passionate about low-level languages | 🔍 Bug Bounty Hunter 
 
 </div>
 

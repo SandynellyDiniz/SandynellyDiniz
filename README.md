@@ -23,7 +23,6 @@
   <img align="center" alt="SD-mongoDB" height="36" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="SD-C++" height="36" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="SD-C#" height="36" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
-  <img align="center" alt="SD-express" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg">
   <img align="center" alt="SD-MySql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
 </div> 
 

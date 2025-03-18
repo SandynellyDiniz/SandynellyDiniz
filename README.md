@@ -28,7 +28,6 @@
 
 <div align="center" width="99" height="99">
   
-
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=de00aa&height=120&section=footer"/>

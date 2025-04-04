@@ -1,5 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=542402&height=120&section=header"/>  
-
+ <p align="center">
+   
+![Image](https://github.com/user-attachments/assets/32dae4a6-473c-429d-95f3-56436e5fcc4b)
+ 
+ </p>
 > " _Beneath the surface of the machine, the program moves. Effortlessly, it expands and contracts. With great harmony, the electrons scatter and regroup. The shapes on the monitor are like ripples in water. The essence remains invisible below._ "
 <br><br>**— Master Yuan-Ma, The Book of Programming**
 
@@ -26,4 +29,3 @@
   
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=542402&height=120&section=footer"/>

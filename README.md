@@ -1,5 +1,5 @@
 
-> " _Beneath the surface of the machine, the program moves. Effortlessly, it expands and contracts. With great harmony, the electrons scatter and regroup. The shapes on the monitor are like ripples in water. The essence remains invisible below._ "
+> " _Beneath the surface of the machine, the program moves. Effortlessly, it expands and contracts. With great harmony, the electrons scatter and regroup. The shapes on the monitor are like ripples in water. The essence remains invisible below._ " 🪄💫🌙
 <br><br>**— Master Yuan-Ma, The Book of Programming**
 
 <div align="center" style="display:inline_block">

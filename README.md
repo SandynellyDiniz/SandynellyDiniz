@@ -1,8 +1,4 @@
- <p align="center">
-   
-![Image](https://github.com/user-attachments/assets/32dae4a6-473c-429d-95f3-56436e5fcc4b)
- 
- </p>
+
 > " _Beneath the surface of the machine, the program moves. Effortlessly, it expands and contracts. With great harmony, the electrons scatter and regroup. The shapes on the monitor are like ripples in water. The essence remains invisible below._ "
 <br><br>**— Master Yuan-Ma, The Book of Programming**
 
@@ -13,7 +9,7 @@
 <div align="center" style="display:inline_block">
 
   <br>
-  <h2 align="center">🔧 Technologies :</h2> 
+  <h2 align="center">Technologies :</h2> 
   <img align="center" alt="SD-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="SD-Python" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="SD-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">

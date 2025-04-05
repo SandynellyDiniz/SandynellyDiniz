@@ -5,9 +5,7 @@
 >_“ People think that computer science is the art of geniuses. In reality, it’s the opposite, it’s a bunch of people doing things that depend on each other, like a wall of small stones. ”_🌱<br><br>**— Donald Knuth** 
 
 <div align="center" style="display:inline_block">
-
-  <br>
-  <h2 align="center">Technologies :</h2> 
+  <br> 
   <img align="center" alt="SD-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="SD-Python" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="SD-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">

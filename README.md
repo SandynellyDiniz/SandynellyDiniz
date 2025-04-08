@@ -16,7 +16,6 @@
   <img align="center" alt="SD-C++" height="36" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="SD-MySql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
 </div> 
-
 <div align="center" width="99" height="99">
   
 </div>

@@ -12,7 +12,4 @@
 
 </div> 
 
-<div align="center" width="99" height="99">
-  
-</div>
 

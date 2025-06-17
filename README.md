@@ -2,20 +2,16 @@
 > " _Beneath the surface of the machine, the program moves. Effortlessly, it expands and contracts. With great harmony, the electrons scatter and regroup. The shapes on the monitor are like ripples in water. The essence remains invisible below._ " 🪄💫🌙
 <br><br>**— Master Yuan-Ma, The Book of Programming**
 
->_“ People think that computer science is the art of geniuses. In reality, it’s the opposite, it’s a bunch of people doing things that depend on each other, like a wall of small stones. ”_ 🌱<br><br>**— Donald Knuth** 
+>_“ People think that computer science is the art of geniuses. In reality, it’s the opposite, it’s a bunch of people doing things that depend on each other, like a wall of small stones. ”_ 🌱<br><br>**— Donald Knuth**
+
 
 <div align="center" style="display:inline_block">
-  <br> 
-  <img align="center" alt="SD-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="SD-Python" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="SD-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="SD-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img align="center" alt="SD-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-  <img align="center" alt="SD-node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="SD-mongoDB" height="36" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="SD-C++" height="36" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="SD-MySql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+  <br>
+  
+  ![SkillIcons](https://skillicons.dev/icons?i=js,html,css,git,nodejs,mongodb,py,cpp)
+
 </div> 
+
 <div align="center" width="99" height="99">
   
 </div>

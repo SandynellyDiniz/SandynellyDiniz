@@ -6,9 +6,9 @@
 
 
 <div align="center" style="display:inline_block">
-  <br>
+  <br> 
   
-  ![SkillIcons](https://skillicons.dev/icons?i=js,html,css,git,nodejs,mongodb,py,cpp)
+ > ![SkillIcons](https://skillicons.dev/icons?i=js,html,css,git,nodejs,mongodb,py,cpp)
 
 </div> 
 
